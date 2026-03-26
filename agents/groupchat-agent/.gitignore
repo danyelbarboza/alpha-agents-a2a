@@ -1,0 +1,17 @@
+# Local env and virtualenv
+.env
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs and outputs
+*.log
+*.tmp
+batch_analysis_resultados*.csv
+
+# Tooling caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
